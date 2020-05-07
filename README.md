@@ -1,15 +1,3 @@
-# Notes App with Nodejs and Mysql
-![](docs/screenshot2.png)
-![](docs/screenshot.png)
-
-## File Structure
-- database, it the folder with all the sql queries, you can use to recreate the database for this application
-- src, it's all the code for the Backend and Frontend Application
-- docs
-
-## Old Versions of this Project
-- [version-2018](https://github.com/FaztTech/nodejs-mysql-links/tree/version-2018)
-
-## Todo
-1. [x] Improve Links Routes
-1. [ ] Write Route Validation with Express Validator
+# miAppCompleta
+*Castrejon Funes Juan Pablo*
+Este repositorio funciona para el manejor de sesiones, registros mediante un nombre, usuario y contraseña, un login con autenticacion de usuario pidiendo el nombre de usuario y contraseña, manejor de las sesiones personalizadas, junto con las funciones de un CRUD (Agregar, Leer, Editar y Eliminar), para  links, los cuales se les agrega una descripcion y titulo,
